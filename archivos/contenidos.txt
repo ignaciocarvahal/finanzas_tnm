@@ -1,0 +1,3 @@
+Blue trae los pdf correspondientes a las facturas (la tiene administracion)
+Copec trae el informe de la pagina de copec con litros cargados vienen en excel
+Sitrack trae la info de cargas en excel
